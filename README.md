@@ -1,5 +1,5 @@
 
-### 源代码地址：https://github.com/bubbliiiing/yolov4-pytorch
+### 源代码地址：https://github.com/bubbliiiing/yolov4-pytorch, https://github.com/bubbliiiing/yolov4-tiny-pytorch
 
 # 第一步：
     将图片和xml文件放入VOC2007文件夹中对应的目录
