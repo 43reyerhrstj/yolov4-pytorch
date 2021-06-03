@@ -235,7 +235,7 @@ class YOLO(object):
 
 
 if "__main__" == __name__:
-    path = 'C:/Users/ajg/Desktop/SHI-Keras-jgan/002.jpg'
+    path = 'C:/Users/ajg/002.jpg'
     img = Image.open(path)
     # print(img)
     YOLO = YOLO()
