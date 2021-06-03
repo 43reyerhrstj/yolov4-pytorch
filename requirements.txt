@@ -1,0 +1,11 @@
+matplotlib==3.3.3
+tqdm==4.55.1
+utils==1.0.1
+torch==1.7.1
+numpy==1.19.5
+opencv_python==4.3.0.36
+torchvision==0.8.2
+scipy==1.5.4
+Pillow==8.2.0
+tensorboardX==2.2
+torchsummary==1.5.1
