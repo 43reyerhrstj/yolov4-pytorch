@@ -19,4 +19,5 @@
 # 第六步：
     修改yolo.py文件中自己的图片路径加载和模型加载路径测试模型输出结果
     
-  ![]()
+  ![](https://github.com/Eric3911/yolov4-pytorch/blob/main/epoch_loss_2021_06_01_10_40_06.png)
+   ![](https://github.com/Eric3911/yolov4-pytorch/blob/main/result.jpg)
